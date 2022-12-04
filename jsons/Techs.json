@@ -1,0 +1,18 @@
+[
+	{
+		"columnNumber": 16,
+		"era": "Information era",
+		"techCost": 8800,
+		"buildingCost": 750,
+		"wonderCost": 1250,
+		"techs": [
+			{
+				"name": "Globalization",
+				"cost": 26400,
+				"row": 2,
+				"prerequisites": ["Telecommunications"],
+				"quote": "'The new electronic interdependence recreates the world in the image of a global village.' - Marshall McLuhan"
+			},
+      ]
+  },
+]
